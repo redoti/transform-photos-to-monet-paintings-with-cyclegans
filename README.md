@@ -1,11 +1,11 @@
-# Creating anime characters using DCGANs and Keras
+# Transform Photos to Monet Paintings with CycleGANs
  
 ---
 
 ### Author : [Cognitive Class](https://cognitiveclass.ai/) 
-Link Course : [Creating anime characters using DCGANs and Keras](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0KSEEN+v1)
+Link Course : [Transform Photos to Monet Paintings with CycleGANs](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0KSEEN+v1)
 
-### Mentee assignment from IBM Advance AI @ Inifite Learning Course completion of Creating anime characters using DCGANs and Keras from [Cognitive Class](https://cognitiveclass.ai/)
+### Mentee assignment from IBM Advance AI @ Inifite Learning Course completion of Transform Photos to Monet Paintings with CycleGANs from [Cognitive Class](https://cognitiveclass.ai/)
 
 ---
 
